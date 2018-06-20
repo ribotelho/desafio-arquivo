@@ -1,0 +1,6 @@
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\bin\Debug\desafioArquivo.exe.config
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\obj\Debug\desafioArquivo.csprojResolveAssemblyReference.cache
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\bin\Debug\desafioArquivo.exe
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\bin\Debug\desafioArquivo.pdb
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\obj\Debug\desafioArquivo.exe
+C:\estudo\Conductor\desafioArquivo\desafioArquivo\obj\Debug\desafioArquivo.pdb
